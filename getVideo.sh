@@ -1,0 +1,1 @@
+ffmpeg -i $(youtube-dl -f 301 -g 'https://www.youtube.com/watch?v=yR2CeaPAYRA') -c copy \"$(date -Ins)\".ts

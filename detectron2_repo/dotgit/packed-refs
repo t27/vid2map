@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+30a335166ec708d54372651171699c6b4a4c9cec refs/remotes/origin/automated_fixup_code_of_conduct_file_exists
+5bfc93d3c44e252c8c9f8101b15dc0b624cf4683 refs/remotes/origin/automated_fixup_contributing_file_exists
+058a4d7eb1d053ff9482348c30f053c067a18fbe refs/remotes/origin/fb-config
+61c15d20f804c0393d412fb3467649ea8e50fb57 refs/remotes/origin/master
